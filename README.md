@@ -38,4 +38,49 @@ Tomas de Andrade Alric
 * Spring Web
 * Lombok
 
+## Diagrama de classes
+
+<img height="550px"  align="center" src="https://i.imgur.com/ofZQwZ2.png">
+
+Collections do Postman
+
+https://www.getpostman.com/collections/f6128c7725d483530133
+
+FILMS
+
+[GET] Buscar filmes da API Omdb, por titulo
+
+--------------------------------------------------
+
+USERS
+
+[GET] Busca usuários de forma páginada
+
+[PUT] Avaliar um filme
+
+[POST] Criar um usuário
+
+[DELETE] Deletar um usuário
+
+
+--------------------------------------------------
+
+AUTH
+
+[POST] Login
+
+
+---------------------------------------------------
+
+Para rodar aplicação é necessário autenticar com username: itau password: itau123
+
+no arquivo import.sql, tem usuários criados com cada role
+
+
+
+
+
+
+
+
 
