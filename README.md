@@ -19,7 +19,6 @@
  * Observações:
     * As informações de Usuários, Filmes, Comentários e Avaliações serão salvas no H2.
     * É possivel cadastrar usuários, lista-los e deletar via metódos configurados no projeto.
-    * Maiores informações sobre bibliotecas, arquitetura e hardware do projeto podem ser encontradas no [link](https://gitlab.com/fse_fga/projetos/projeto-2).
 
 ## Autor
 
