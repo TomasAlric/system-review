@@ -78,7 +78,7 @@ no arquivo import.sql, tem usuários criados com cada role
 
 
 
-
+O banco de dados está no H2: http://localhost:8070/h2-console/
 
 
 
