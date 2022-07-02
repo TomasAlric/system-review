@@ -12,7 +12,8 @@
   * Maven configurado no ambiente
 
 * Após ambiente configurado, para executar o projeto, faça o clone do repositório e, na pasta principal, proceda com as instruções:
-  * Configure o IntelliJ com o Java 11 que instalou.
+  * Configure o IntelliJ com o Java 11 e o Maven que instalou.
+  * 
   * Encontre a classe SystemReviewApplication na arquitetura do projeto, com o botão direito, clique em "Run SystemApplication"
   * Caso ocorra algum problema de execução, execute o comando "mvn clean install" no projeto Maven.
 
