@@ -38,8 +38,6 @@ Tomas de Andrade Alric
 * Spring Web
 * Lombok
 
-## Diagrama de classes
-
 <img height="550px"  align="center" src="https://i.imgur.com/ofZQwZ2.png">
 
 Collections do Postman
@@ -74,11 +72,18 @@ AUTH
 
 Para rodar aplicação é necessário autenticar com username: itau password: itau123
 
+Será gerado um token, e um refresh token... no postman tem um script que armazena seu token numa variável de ambiente
+
+
+
 no arquivo import.sql, tem usuários criados com cada role
 
 
 
 O banco de dados está no H2: http://localhost:8070/h2-console/
+
+
+Ao criar um usuário, as senhas são salvas no banco de dados encriptadas.
 
 
 
